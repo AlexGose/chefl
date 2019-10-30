@@ -3,7 +3,11 @@ FROM ubuntu:16.04
 RUN mkdir /website
 ADD requirements.txt /website/
 WORKDIR /website
-RUN apt-get update && apt-get install -y python-pip git
+RUN apt-get update && apt-get install -y \
+	git \
+	python-pip \
+  && rm -rf /var/lib/apt/lists/*
+
 RUN pip install -r requirements.txt
 
 # only download the pelican-boostrap3 theme 
@@ -25,7 +29,7 @@ RUN mkdir /website/plugins \
 && git pull origin master
 
 # bust the cache
-WORKDIR /website 
+WORKDIR /website
 ADD pelicanconf.py /website/ 
 ADD publishconf.py /website/
 ADD Makefile /website/ 
