@@ -1,6 +1,7 @@
 Title: Ramen
 Date: 2019-11-25
 Author: Lorraine Gose
+Status: draft
 
 ![ramen-ingredients-small.jpg]({static}/images/ramen-ingredients-small.jpg)
 
