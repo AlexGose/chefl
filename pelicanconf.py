@@ -38,3 +38,7 @@ PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
+
+USE_FOLDER_AS_CATEGORY = True
+CC_LICENSE = "CC-BY-SA"
+DISPLAY_ARTICLE_INFO_ON_INDEX = True
