@@ -1,5 +1,5 @@
 Title: Ramen
-Date: 2019-11-25
+Date: 2020-01-01
 Author: Lorraine Gose
 Status: draft
 
@@ -14,21 +14,22 @@ beef broth. Flavor with rice wine and soy sauce to create a fabulous
 umami taste.
 
 I purchased a ramen noodles dried and straight. Each portion is
-conveniently wrapped with a ribbon.
-
-You can top the noodles with anything you want. Your fave veggies and
-meat or seafood. My favorite back in the day was seafood or pork belly.
-Something simple works just as well, perhaps an onsen egg no longer than
-a five minute poach. Variety of veggies, green onions, mushrooms, onions
-with a mix of shrimp, scallops and squid stir fried or sautéed can be
-just one of the ways to top this hearty warm dish.
+conveniently wrapped with a ribbon. You can top the noodles with
+anything you want. Your fave veggies and meat or seafood. My favorite
+back in the day was seafood or pork belly. Something simple works just
+as well, perhaps an onsen egg no longer than a five minute poach.
+Variety of veggies, green onions, mushrooms, onions with a mix of
+shrimp, scallops and squid stir fried or sautéed can be just one of the
+ways to top this hearty warm dish.
 
 The beauty of the arrangement makes you want to dig into the bowl and of
 course slurp very loudly.
 
-**Ramen**
+![ramen-small.jpg]({static}/images/ramen-small.jpg)
 
-**Noodles:**
+# Ramen
+
+## Noodles:
 
 There are a lot of precooked packages of curly Ramen noodles with a
 flavor packet. Fresh or frozen ramen noodles and dried straight noodles
@@ -40,13 +41,13 @@ chewy. Has a more authentic taste of wheat noodles.
 You can use the flavor packet or one of the many containers of flavored
 ramen broth. Miso, soy, salt and bone broth are the categories of broth
 for ramen. My favorite is beef or chicken bone broth (Trader Joe's has
-tasty varieties ). I add soy sauce and rice wine to the bone broth. This
+tasty varieties). I add soy sauce and rice wine to the bone broth. This
 mixture is known as tare and can add a very deep umami flavor to the
 broth.
 
-**Toppings:**
+## Toppings:
 
-**Protein**
+**Protein:**
 
 This is where you create the ramen of your choice. Any type of meat,
 poultry or seafood can adorn the top of the noodles. Pork belly, chicken
@@ -66,9 +67,7 @@ of pink surrounded by white. Reminds me of flowers.
 I like to stir fry the vegetables and meat, poultry and seafood to add
 extra flavor or you can just poach it in the ramen
 
-![ramen-small.jpg]({static}/images/ramen-small.jpg)
-
-**Bone broth Ramen with Seafood, Egg and Assorted Vegetables**
+# Bone broth Ramen with Seafood, Egg and Assorted Vegetables
 
 2 portions of dried straight ramen noodles
 
@@ -92,11 +91,11 @@ Toppings:
 
 2 eggs
 
-Bring to boil , 2 quarts of water and cook the noodles according to
+Bring to boil, 2 quarts of water and cook the noodles according to
 directions on the package
 
 Meanwhile, place broth, rice wine and soy sauce in a pot and bring to
-heat. Crack open two eggs into the broth and cook for 5 minutes. ,
+heat. Crack open two eggs into the broth and cook for 5 minutes.
 
 In a pan, add 1 T vegetable oil and sauté onions and mushrooms until
 cooked through. Add salt, pepper to taste. Drizzle 1T soy sauce and 1 T
@@ -107,6 +106,14 @@ Now you are ready to put the ramen together.
 
 In a bowl place ½ of the cooked noodles. Place half of the vegetables in
 one section, then the seafood in the next section. Top with the onsen
-cooked egg. Pour the hot broth over the ramen. Serve immediately. You
-can sprinkle some nana togarashi if you want a bit of spiciness. It is a
-combination of Japanese hot pepper, sesame seeds and nori.
+cooked egg. Garnish with green onions. Pour the hot broth over the
+ramen. Serve immediately. You can sprinkle some nana togarashi if you
+want a bit of spiciness. It is a combination of Japanese hot pepper,
+sesame seeds and nori.
+
+These are some of my favorite links.
+
+<https://www.seriouseats.com/recipes/topics/ingredient/noodles/ramen>
+
+[Ramen Heads \| Official Trailer directed by Koki Shigeno (Gunpowder &
+Sky)](<https://www.youtube.com/watch?v=aLkRcFG1pWo>)
