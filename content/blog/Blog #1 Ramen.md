@@ -25,7 +25,6 @@ ways to top this hearty warm dish.
 The beauty of the arrangement makes you want to dig into the bowl and of
 course slurp very loudly.
 
-![ramen-small.jpg]({static}/images/ramen-small.jpg)
 
 # Ramen
 
@@ -68,6 +67,8 @@ I like to stir fry the vegetables and meat, poultry and seafood to add
 extra flavor or you can just poach it in the ramen
 
 # Bone broth Ramen with Seafood, Egg and Assorted Vegetables
+
+![ramen-small.jpg]({static}/images/ramen-small.jpg)
 
 2 portions of dried straight ramen noodles
 
