@@ -1,7 +1,7 @@
 Title: Ramen
 Date: 2020-01-01
 Author: Lorraine Gose
-Status: draft
+Tags: Ramen, Recipe, Japanese-Food
 
 ![ramen-ingredients-small.jpg]({static}/images/ramen-ingredients-small.jpg)
 
